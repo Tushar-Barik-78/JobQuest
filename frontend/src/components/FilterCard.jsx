@@ -11,12 +11,12 @@ const fitlerData = [
   },
   {
     fitlerType: "Industry",
-    array: ["Frontend Developer", "Backend Developer", "FullStack Developer"],
+    array: ["Frontend Developer", "Backend Developer", "FullStack Developer","Data scientist"],
   },
-  {
-    fitlerType: "Salary",
-    array: ["0-40k", "42-1lakh", "1lakh to 5lakh", "5lakh-30lakh"],
-  },
+  // {
+  //   fitlerType: "Salary",
+  //   array: ["0-40k", "42-1lakh", "1lakh to 5lakh", "5LPA"],
+  // },
 ];
 
 const FilterCard = () => {
