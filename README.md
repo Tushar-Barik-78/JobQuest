@@ -5,7 +5,7 @@
 JobQuest is a modern MERN stack job portal that connects job seekers and recruiters effortlessly.
 It features secure authentication, resume uploads, and a smooth user experience powered by RESTful APIs.
 
-🌍 Live Demo :  🔗 https://jobquest.onrender.com
+🌍 Live Demo :  🔗 [https://jobquest-tushar.onrender.com/]
 
 <img width="1874" height="917" alt="image" src="https://github.com/user-attachments/assets/6c8da41f-8171-4762-8e68-a0bca730bd2f" />
 
