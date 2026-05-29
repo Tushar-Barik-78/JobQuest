@@ -7,7 +7,7 @@ It features secure authentication, resume uploads, and a smooth user experience 
 
 🌍 Live Demo :  🔗 [https://jobquest-tushar.onrender.com/]
 
-<img width="1874" height="917" alt="image" src="https://github.com/user-attachments/assets/6c8da41f-8171-4762-8e68-a0bca730bd2f" />
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/6c8da41f-8171-4762-8e68-a0bca730bd2f" />
 
 ---
 
